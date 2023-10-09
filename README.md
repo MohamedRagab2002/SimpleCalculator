@@ -8,6 +8,7 @@ This is a basic Android calculator app that allows users to perform addition, su
 - Multiplication
 - Division
 - Error handling for invalid input and division by zero
+- View Binding: The app is built using View Binding, ensuring a seamless connection between the user interface and the underlying logic.
 
   
   ## Video
